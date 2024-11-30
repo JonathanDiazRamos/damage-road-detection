@@ -1,7 +1,7 @@
 
 # YOLOv7 Experiments - RDCC Challenge
 
-Welcome to the repository containing the results of unique experiments conducted using YOLOv7 for the Road Damage Condition Classification (RDCC) Challenge. This repository includes detailed run folders for each experiment and insights into training YOLOv7 for damaged road identification.
+This repository contains the results of unique experiments conducted using YOLOv7 for the Road Damage Condition Classification (RDCC) Challenge. This repository includes detailed run folders for each experiment and insights into training YOLOv7 for damaged road identification.
 
 ---
 
